@@ -67,7 +67,7 @@
 }
 
 .nav_link:hover {
-  -webkit-text-stroke: 1px #fff;
+  /* -webkit-text-stroke: 1px #fff; */
 }
 
 .py_header {
