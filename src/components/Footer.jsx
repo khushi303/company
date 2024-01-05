@@ -11,7 +11,7 @@ const Footer = () => {
                     <div className='mw_176'>
                         <img src={Footerlogo} alt="Footerlogo" className='w-100 cur_pointer' />
                     </div>
-                    <ul className='list-unstyled mb-0 d-flex align-items-center gap-lg-4 gap-3 flex-wrap'>
+                    <ul className='list-unstyled mb-0 d-flex align-items-center justify-content-center gap-lg-4 gap-3 flex-wrap'>
                         <li><a href="#home" className='fs_9sm fw-medium text_graylightrg lh_100 text-nowrap position-relative foot_link nav_link'>Home</a></li>
                         <li><a href="#benifit" className='fs_9sm fw-medium text_graylightrg lh_100 text-nowrap position-relative foot_link nav_link'>Your benefits</a></li>
                         <li><a href="#process" className='fs_9sm fw-medium text_graylightrg lh_100 text-nowrap position-relative foot_link nav_link'>Our process</a></li>
