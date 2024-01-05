@@ -50,7 +50,7 @@ const Header = () => {
                     <div data-aos="zoom-in" className='mw_lg_1045'>
                         <img src={Dashboard} alt="Dashboard" className='w-100' />
                     </div>
-                    <div className='time_card position-absolute d-md-block d-none cur_pointer'>
+                    <div className='time_card position-absolute d-lg-block d-none cur_pointer'>
                         <div data-aos="fade-up" className='time_card2'>
                             <p className='ff_nunito mb-0 fw-semibold fs_7sm text_pur_700 pb-2'>Total time</p>
                             <div className='d-flex align-items-center gap-lg-3'>
